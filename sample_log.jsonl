@@ -1,0 +1,4 @@
+{"ip": "192.168.1.1", "threat": ["bad isp"], "severity": "high", "score": 10, "geo": "US"}
+{"ip": "10.0.0.1", "threat": ["bad country"], "severity": "mid", "score": 5, "geo": "RU"}
+{"ip": "172.16.0.5", "threat": ["bash -i"], "severity": "critical", "score": 15, "geo": "CN"}
+
