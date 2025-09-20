@@ -1,4 +1,7 @@
-
+![Python](https://img.shields.io/badge/python-v3.11+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+![Security](https://img.shields.io/badge/security-threat--detection-red.svg)
 # Threat Detection Platform
 
 A real-time security monitoring system that ingests multi-format data sources, performs threat analysis using MITRE ATT&CK framework integration, and provides automated response capabilities.
