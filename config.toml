@@ -1,0 +1,7 @@
+[server]
+headless = true
+
+[global]
+mainScript = "src/dashboard/stream_app_demo.py"
+
+
