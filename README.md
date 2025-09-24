@@ -6,8 +6,32 @@
 
 A real-time security monitoring system that ingests multi-format data sources, performs threat analysis using MITRE ATT&CK framework integration, and provides automated response capabilities.
 
-#View Live Demo-version: 
-[🚀 Live Demo](https://share.streamlit.io/yourusername/security-detection-engine-uc8afhcifkv7wkcufcmmzc/app.py)
+# Live Demo & Full Version Screenshots
+
+Experience the full Security Detection Dashboard in action:  
+[Open Live Demo](https://share.streamlit.io/yourusername/security-detection-engine-uc8afhcifkv7wkcufcmmzc/stream_app.py)
+
+## 💻 Full Version (Real Data)
+
+The dashboard includes real-time threat feed, analytics, and geographic threat mapping:
+
+![Dashboard Overview](screenshots/pic1.png)  
+*Live threat feed and key metrics*
+
+![Geographic Threat Distribution](screenshots/pic2.png)  
+*Threats visualized by country and region*
+
+![Analytics & MITRE Tab](screenshots/pic3.png)  
+*Severity distributions, score histograms, and top MITRE ATT&CK techniques*
+
+![Detailed Threat View](screenshots/pic4.png)  
+*Click a threat to see IP info, source type, MITRE techniques, and raw data*
+
+![Advanced Analytics](screenshots/pic5.png)  
+*Hourly trends, score distributions, and severity analysis*
+
+![MITRE Insights](screenshots/pic6.png)  
+*Top MITRE techniques observed in real-time threats*
 
 ## Architecture Overview
 
