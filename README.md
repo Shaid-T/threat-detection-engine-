@@ -18,19 +18,19 @@ The dashboard includes real-time threat feed, analytics, and geographic threat m
 ![Dashboard Overview](pic.png)  
 *Live threat feed and key metrics*
 
-![Geographic Threat Distribution](screenshots/pic2.png)  
+![Geographic Threat Distribution](pic2.png)  
 *Threats visualized by country and region*
 
-![Analytics & MITRE Tab](screenshots/pic3.png)  
+![Analytics & MITRE Tab](pic3.png)  
 *Severity distributions, score histograms, and top MITRE ATT&CK techniques*
 
-![Detailed Threat View](screenshots/pic4.png)  
+![Detailed Threat View](pic4.png)  
 *Click a threat to see IP info, source type, MITRE techniques, and raw data*
 
-![Advanced Analytics](screenshots/pic5.png)  
+![Advanced Analytics](pic5.png)  
 *Hourly trends, score distributions, and severity analysis*
 
-![MITRE Insights](screenshots/pic6.png)  
+![MITRE Insights](pic6.png)  
 *Top MITRE techniques observed in real-time threats*
 
 ## Architecture Overview
