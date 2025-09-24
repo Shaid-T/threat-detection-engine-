@@ -16,22 +16,22 @@ Experience the full Security Detection Dashboard in action:
 The dashboard includes real-time threat feed, analytics, and geographic threat mapping:
 
 ![Dashboard Overview](pic6.png)  
-*Live threat feed and key metrics*
+
 
 ![Geographic Threat Distribution](pic5.png)  
-*Threats visualized by country and region*
+
 
 ![Analytics & MITRE Tab](pic4.png)  
-*Severity distributions, score histograms, and top MITRE ATT&CK techniques*
+
 
 ![Detailed Threat View](pic3.png)  
-*Click a threat to see IP info, source type, MITRE techniques, and raw data*
+
 
 ![Advanced Analytics](pic2.png)  
-*Hourly trends, score distributions, and severity analysis*
+
 
 ![MITRE Insights](pic.png)  
-*Top MITRE techniques observed in real-time threats*
+
 
 ## Architecture Overview
 
