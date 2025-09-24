@@ -32,6 +32,15 @@ The dashboard includes real-time threat feed, analytics, and geographic threat m
 
 ![MITRE Insights](pic.png)  
 
+This project demonstrates:
+- Real-time data ingestion and monitoring
+- Threat detection using MITRE ATT&CK
+- Interactive analytics & geographic mapping
+- Automated response with IP blocking and email alerts
+- Professional-grade full-stack architecture
+
+
+
 
 ## Architecture Overview
 
@@ -102,7 +111,7 @@ Docker (optional)
 1. **Clone and Setup Environment**
 ```bash
 git clone https://github.com/Zero0days/threat-detection-engine.git
-cd threat-detection-engine
+cd threat-detection-platform
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
