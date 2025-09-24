@@ -9,7 +9,7 @@ A real-time security monitoring system that ingests multi-format data sources, p
 # Live Demo & Full Version Screenshots
 
 Experience the full Security Detection Dashboard in action:  
-[Open Live Demo](6zaaisxqmaeazazthcbosn.streamlit.app)
+[Open Live Demo](https://share.streamlit.io/zero0days/threat-detection-engine-/main/stream_app.py)
 
 ## 💻 Full Version (Real Data)
 
