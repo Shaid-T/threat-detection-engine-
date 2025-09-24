@@ -15,7 +15,7 @@ Experience the full Security Detection Dashboard in action:
 
 The dashboard includes real-time threat feed, analytics, and geographic threat mapping:
 
-![Dashboard Overview](screenshots/pic1.png)  
+![Dashboard Overview](pic.png)  
 *Live threat feed and key metrics*
 
 ![Geographic Threat Distribution](screenshots/pic2.png)  
