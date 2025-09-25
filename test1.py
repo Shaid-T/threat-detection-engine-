@@ -1,4 +1,4 @@
-# test_simple_insert.py
+
 import asyncio
 from src.db import threat_db
 
