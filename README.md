@@ -287,7 +287,7 @@ pylint src/
 
 MIT License - see [LICENSE](LICENSE) file for details.
 
-## Roadmap
+## working on adding new repo/ or exisiting (this one)
 
 - [ ] Kubernetes deployment manifests
 - [ ] REST API for external integrations  
